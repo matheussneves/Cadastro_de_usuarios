@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cadastrar usuário</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1492f39e-95dd-4cde-8b80-5bc6c64141cf</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.campo_nome</defaultValue>
+      <description></description>
+      <id>ce2eeb36-8a61-4744-9189-987545b57dda</id>
+      <masked>false</masked>
+      <name>nome</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.campo_senha</defaultValue>
+      <description></description>
+      <id>69b1503f-7827-4185-8a23-c0a3ddd1d4e3</id>
+      <masked>false</masked>
+      <name>senha</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.campo_email</defaultValue>
+      <description></description>
+      <id>b1e3e1a8-0bdb-4e68-a2d7-0d26c0fb0d9b</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>663a9786-64a2-4dfc-9fff-65e231b96109</id>
+      <masked>false</masked>
+      <name>a</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.url</defaultValue>
+      <description></description>
+      <id>c50925cf-5b00-4ab4-b7af-2b534c1f2346</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

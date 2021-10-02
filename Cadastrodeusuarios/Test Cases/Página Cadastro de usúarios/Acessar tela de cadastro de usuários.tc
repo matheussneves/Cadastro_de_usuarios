@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Acessar tela de cadastro de usuários</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d73d152-82cb-4a4a-ba69-edcd7459f559</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.url</defaultValue>
+      <description></description>
+      <id>acd3a92d-6c78-4912-b549-0f260ef2edd0</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
